@@ -1,7 +1,8 @@
 # Greetings!
 
 ## About Me
-💻 CS Student
+
+💻 CS Student \
 📍 Slovenia, Europe
 
 ## Technologies
